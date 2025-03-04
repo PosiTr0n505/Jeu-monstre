@@ -34,3 +34,5 @@ Un monstre de niveau supérieur dispose de plus de points de vie et d’attaques
 - **+50 x niveau du monstre** pour un monstre vaincu en combat 1v1.
 - **+100 x niveau du monstre** pour un monstre vaincu en combat simultané.
 - Score final enregistré automatiquement.
+
+Développé par Ghassan Jabbour et Sami Halilou dans le cadre du projet **SAÉ S1.02 - Comparaison d’approches algorithmiques** à **Université Clermont Auvergne**.
